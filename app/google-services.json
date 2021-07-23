@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405202620718",
+    "project_id": "qwertychat-49084",
+    "storage_bucket": "qwertychat-49084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405202620718:android:98dc0516ccb9493f7feabf",
+        "android_client_info": {
+          "package_name": "com.QwertyNetwork.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405202620718-91sm8e6q13arbs3dmvph63jri1c0gu2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJcpWmXzb5OZYzDFf6gXgJsa7PSICPQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405202620718-91sm8e6q13arbs3dmvph63jri1c0gu2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
